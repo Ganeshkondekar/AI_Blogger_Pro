@@ -160,15 +160,6 @@ streamlit run app.py
 
 # 📸 Application Preview
 
-> Add screenshots here after launching the application.
-
-Example:
-
-```
-images/homepage.png
-images/generated_blog.png
-```
-
 ---
 
 # 🚀 Future Improvements
